@@ -57,3 +57,4 @@ Please feel free to reach out to me, if you would like to contribute feel free t
 
 * **Gabor Csapo** - gabor.csapo@nyu.edu
 * **Jihyun Kim** - jihyun@nyu.edu
+* We used a modified version of the [Random Acts of Pizza dataset](https://www.kaggle.com/c/random-acts-of-pizza)
