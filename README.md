@@ -47,7 +47,7 @@ To start running Jupyter, type in
 
 ### We are ready! Let's open the first tutorial.
 
-
+---
 ## Contributing
 
 Please feel free to reach out to me, if you would like to contribute feel free to fork the repository!
