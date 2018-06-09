@@ -31,11 +31,11 @@ For Mac OS, open Terminal
 
 If that didn’t work try these: 
 - If you have Python 2.7:
-⋅⋅⋅ `conda install python=3.6`
-⋅⋅⋅ `conda create -n py36 python=3.6` 
-⋅⋅⋅ `source activate py36` 
+⋅⋅⋅ `conda install python=3.6`  
+⋅⋅⋅ `conda create -n py36 python=3.6`   
+⋅⋅⋅ `source activate py36`   
 - If you have some missing packages:
-⋅⋅⋅ `conda install some-missing-package` 
+⋅⋅⋅ `conda install some-missing-package`   
 
 ### Jupyter Notebook
 Web app to create a notebook that can run code, display graphs and images
