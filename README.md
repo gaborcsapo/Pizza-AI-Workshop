@@ -11,7 +11,7 @@
 - High level language
 - Amazing packages
  &nbsp;
- 
+
 ![python is great](https://img-9gag-fun.9cache.com/photo/a6L3Dwq_700bwp.webp)  
 
 
@@ -30,7 +30,7 @@ For Mac OS, open Terminal
    `conda -V`  
    `conda list`  
 
-If that didn’t work try these: 
+If that didn’t work try these:
 - If you have Python 2.7:  
    `conda install python=3.6`   
    `conda create -n py36 python=3.6`   
@@ -40,12 +40,12 @@ If that didn’t work try these:
 
 ### Jupyter Notebook
 Web app to create a notebook that can run code, display graphs and images
-	
+
 To start running Jupyter, type in  
    `jupyter notebook`
 
 
-### We are ready! Let's open the first tutorial.
+### We are ready! Let's open the first tutorial to learn about python and pandas. If you are familiar with the topic, go ahead to Part2. In the complete you'll find all the code ready, while the skeleton code is for those who want to follow along.
 
 ---
 ## Contributing
